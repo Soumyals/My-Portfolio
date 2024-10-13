@@ -23,7 +23,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import python from './tech/python.png';
 import C from './tech/C.png';
-import Chroma from './tech/Chroma.png';
+import chroma from './tech/chroma.png';
 import GO from './tech/GO.png';
 import Hadoop from './tech/Hadoop.png';
 import R from './tech/R.png';
