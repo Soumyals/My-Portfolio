@@ -43,7 +43,11 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("","", 0.1, 1)}>
-      I’m a versatile tech enthusiast with a strong foundation in machine learning and software development. From building intelligent systems for predictive healthcare and generative AI solutions to developing full-stack web applications and efficient real-time software, I thrive on creating impactful, data-driven products. With expertise in Python, MERN stack, Go, and cutting-edge AI technologies, I’m passionate about solving complex problems through innovation, engineering, and scalable solutions. Let's turn ideas into powerful, real-world applications.
+      I am a passionate tech enthusiast with a diverse skill set spanning machine learning, software development, and AI innovation. Whether it's developing predictive healthcare models or building efficient full-stack applications, I'm driven by the challenge of creating impactful, scalable solutions.
+      With experience in Python, MERN stack, Go, and cutting-edge AI tools, I thrive on transforming complex problems into user-centric, real-world applications.
+      My goal is to push the boundaries of technology and bring new ideas to life through creativity, engineering, and innovation.
+
+
 
       </motion.p>
 

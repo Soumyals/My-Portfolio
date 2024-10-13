@@ -26,7 +26,7 @@ import {
     HIVE,
     Kafka,
     SQL,
-    Chroma,
+    chroma,
     nodejs,
     mongodb,
     git,

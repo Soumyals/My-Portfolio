@@ -88,7 +88,7 @@ export {
   HIVE,
   Kafka,
   SQL,
-  Chroma,
+  chroma,
   typescript,
   threejs,
   meta,
