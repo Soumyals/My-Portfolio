@@ -44,6 +44,7 @@ import {
     inventory,
     parkinson,
     threejs,
+    payroll,
   } from "../assets";
   
   export const navLinks = [
@@ -290,7 +291,7 @@ import {
       source_code_link: "https://github.com/Soumyals/pencil-sketch-converter.git",
     },
     {
-      name: "Expense Tracket",
+      name: "Expense Tracker",
       description:
         "This project presents an Expense Tracking System designed to help users effectively track and manage their expenses. Developed using the MERN stack, this application provides a user-friendly interface for recording, categorizing, and analyzing expenses. The project showcases my expertise in full-stack development, database management, and agile development methodologies.",
       tags: [
@@ -309,6 +310,27 @@ import {
       ],
       image: expense,
       source_code_link: "https://github.com/Soumyals/Expense-Tracker.git",
+    },
+    {
+      name: "Payroll Management System",
+      description:
+        "The Payroll Management System is a web-based application to automate employee payroll processes. It handles salary calculations, tax deductions, leave management, and payslip generation. Built using Flask for the backend and MySQL for the database, this system ensures seamless and efficient payroll operations.",
+      tags: [
+        {
+          name: "MySQL",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Flask",
+          color: "green-text-gradient",
+        },
+        {
+          name: "React & Vite",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: payroll,
+      source_code_link: "https://github.com/Soumyals/Payroll-Management-System.git",
     },
     {
       name: "Inventory Management",

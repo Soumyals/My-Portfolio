@@ -52,6 +52,7 @@ import pencil from "./pencil.png";
 import expense from "./expense.png";
 import inventory from "./inventory.png";
 import parkinson from "./parkinson.png";
+import payroll from "./payroll.png";
 
 export {
   logo,
@@ -101,5 +102,6 @@ export {
   pencil,
   expense,
   inventory,
+  payroll,
   parkinson,
 };
